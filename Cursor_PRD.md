@@ -1,46 +1,9 @@
-
-Search
-1
-
-1
-
-
-Community
-Classroom
-Calendar
-Members
-Leaderboards
-About
-AI Builder Club
-
-Search
-1
-
-1
-
-
-[Advanced] Cursor Advanced Workflow
-0%
-How to 10x Cursor Workflow overview
-Plan & write PRD for cursor (Important!)
-Build frontend
-Connect to LLM monitoring platforms
-Backend setup - Connect to Supabase
-UI touch up via V0
-Deployment
-Plan & write PRD for cursor (Important!)
-
-14:35
 Case study overview
 I will take you through my best practice workflow end to end, so you can build your next dream app; The application I want to show case is how to build an AI analytics platform that reads thousands of reddit posts, and summarise & extract core insights; Similar to https://go.gummysearch.com/
 
 
 
 Greg Isenberg showcased how he used Gummysearch to find startup ideas, which I highly recommend watching: https://www.youtube.com/watch?v=8vXoI7lUroQ&t=242s&ab_channel=GregIsenberg
-
-
-
-One of tasks that LLM is really really freaking good at is the ability to extract information from unstructured data (e.g. reddit posts, blogs, messages); The great thing about this application is that you can replicate similar interaction and launch niche Sass for Twitter, Facebook group, Discord, Slack or even private data you collected somewhere
 
 
 
